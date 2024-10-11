@@ -1,0 +1,13 @@
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\bin\Debug\UserControls.exe.config
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\bin\Debug\UserControls.exe
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\bin\Debug\UserControls.pdb
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.csproj.AssemblyReference.cache
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.UserControl1.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.exe
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.pdb
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.Form1.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.Form2.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserControls\obj\Debug\UserControls.UserControl2.resources

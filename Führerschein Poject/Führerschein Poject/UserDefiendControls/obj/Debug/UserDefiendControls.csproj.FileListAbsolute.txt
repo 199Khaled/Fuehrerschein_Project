@@ -1,0 +1,12 @@
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\bin\Debug\UserDefiendControls.exe.config
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\bin\Debug\UserDefiendControls.exe
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\bin\Debug\UserDefiendControls.pdb
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.csproj.AssemblyReference.cache
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.Properties.Resources.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.UserControl1.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.UserControl2.resources
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.csproj.GenerateResource.cache
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.csproj.CoreCompileInputs.cache
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.exe
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.pdb
+C:\Users\Hamssa\Desktop\MyFirstCppApp\UserDefiendControls\obj\Debug\UserDefiendControls.ctrPersonCard.resources
